@@ -1,4 +1,4 @@
-# vue2-class
+# Vue2 class-component TypeScript
 
 ## Project setup
 ```
